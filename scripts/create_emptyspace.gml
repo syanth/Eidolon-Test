@@ -1,5 +1,4 @@
 /// Creation of an Empty tile
-var structures;
 for (var i = 0; i < 3; i++) {
-    structures[i] = 0;
+    structures[i] = 0; // There are 0 structures of each type of structure
 }

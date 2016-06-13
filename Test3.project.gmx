@@ -16,6 +16,11 @@
     <script>scripts\create_military.gml</script>
     <script>scripts\create_ship.gml</script>
     <script>scripts\create_fleet.gml</script>
+    <script>scripts\fleet_battle.gml</script>
+    <script>scripts\controller.gml</script>
+    <script>scripts\update_morale.gml</script>
+    <script>scripts\update_mil_perf.gml</script>
+    <script>scripts\update_mil_eff.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_tile</object>
@@ -26,6 +31,7 @@
     <object>objects\obj_ai</object>
     <object>objects\obj_military</object>
     <object>objects\obj_fleet</object>
+    <object>objects\obj_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
